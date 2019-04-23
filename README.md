@@ -1,9 +1,6 @@
 # RoboTICK
 RoboTICK - OpenSource &amp; OpenHardware robotic free platform (based on ROS)
 
+Presentation from meetup about this project [Let's build a robot with ROS - Internet of Things, Hardware & Robotics meetup #1 Poznań](https://www.slideshare.net/bieli/lets-build-a-robot-with-ros-internet-of-things-hardware-robotics-meetup-1-pozna)
 
-The way of thinking
-----
-- 1/2 size prototype (better scaling and comfortable for first line experiments)
-- add foloders in repository about mechanics with components size
-- DIY how to build body (maybe images with comments)
+See logs from [MEETINGS](MEETINGS.md)
