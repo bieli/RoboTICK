@@ -31,3 +31,10 @@ Posibilites:
 - We building frame for RoboTICK micro from frame 2_1 base based on PLA platics from 3D printer and ALUminum rods (results: optimal construction stiffness, simple connectors with bolts and nuts)
 - we need discussion about new RoboTICK micro frame for building next in 1:2 scale prototype
 
+
+4. Reverting from fantasy to basics use cases for 1:1 scale vehicle
+----
+- we need bussines cases and share document with team
+- we need spreadsheet with general vehicle phisical assumptions for starting discussion from scratch
+- we have a "garage" where we can realize this project by regular team meetings
+
