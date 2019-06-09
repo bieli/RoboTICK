@@ -21,3 +21,13 @@ Decisions:
 
 Updates:
 - new inventor attached to project - we welcome Bartek
+
+
+3. New experience for RoboTICK in 1:1 scale (not official)
+----
+Posibilites:
+- FreeCAD is not optimal software for building advanced constructions (i.e. building frame for RoboTICK micro - from frame 2_1 base - it's about 14h with learning soft.)
+- Bartek frame construction proposals: we need the same construction as oldest cars for frame, two strong metal rails in the central of frame construction and we need aditionals witch connected with rails
+- We building frame for RoboTICK micro from frame 2_1 base based on PLA platics from 3D printer and ALUminum rods (results: optimal construction stiffness, simple connectors with bolts and nuts)
+- we need discussion about new RoboTICK micro frame for building next in 1:2 scale prototype
+
