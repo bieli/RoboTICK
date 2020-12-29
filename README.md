@@ -1,13 +1,17 @@
-# RoboTICK
-RoboTICK - OpenSource &amp; OpenHardware robotic free platform (based on ROS)
-
-Presentation from meetup about this project [Let's build a robot with ROS - Internet of Things, Hardware & Robotics meetup #1 Poznań](https://www.slideshare.net/bieli/lets-build-a-robot-with-ros-internet-of-things-hardware-robotics-meetup-1-pozna)
-
-See logs from [MEETINGS](MEETINGS.md)
+# RoboTICK - OpenSource &amp; OpenHardware robotic free mobile platform (based on ROS)
 
 
-Project structure - divide by specific stuff
-====
+## Introduction 
+Few months ago I decided to build my own mobile robotic platform from scratch. I have a few motivators: understanding prototyping robots, building vehicle from CAD design to ready to use and learning new version of ROS. Of course future plans are: deploying Machine Learning models on platform, autonomous alghoritms, high availability on hardware and software levels by redundancy internal systems (power, computer, network, etc).
+
+## Official idea presentation
+Presentation from my [IoT, Hardware & Robotics meetup](https://www.meetup.com/pl-PL/Internet-of-Things-Hardware-Robotics-Pozna%C5%84/) about this project [Let's build a robot with ROS - Internet of Things, Hardware & Robotics meetup #1 Poznań](https://www.slideshare.net/bieli/lets-build-a-robot-with-ros-internet-of-things-hardware-robotics-meetup-1-pozna)
+
+
+## Project structure - divide by specific stuff
+
+### Domains:
+
 - `vehicle_construction` - CAD construction, Bill of Materials, STL files for 3D printer
   - `frame`
   - `connections`
@@ -37,3 +41,5 @@ Project structure - divide by specific stuff
   - `cloud connections`
   - `failover connections`
 
+
+See logs from [MEETINGS](MEETINGS.md)
